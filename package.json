@@ -1,0 +1,16 @@
+{
+  "name": "zora-bridge",
+  "author": {
+    "name": "Yakich",
+    "url": "https://github.com/shizz-x"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "web3": "^4.11.1"
+  }
+}
